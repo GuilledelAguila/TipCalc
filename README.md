@@ -20,7 +20,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://imgflip.com/gif/2r2mtm"><img src="https://i.imgflip.com/2r2mtm.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2r2om3"><img src="https://i.imgflip.com/2r2om3.gif" title="made at imgflip.com"/></a>
 
 GIF created with [Imgflip]
 
